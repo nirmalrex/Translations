@@ -1,6 +1,6 @@
 [
   {
-    "id": 1413,
+    "id": 1423,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-HDR.1",
     "t24_field_name": "TXT.OPERATION",
@@ -10,7 +10,7 @@
     "approval_status": "Approved"
   },
   {
-    "id": 1414,
+    "id": 1424,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Cus.No",
     "t24_field_name": "TEXT",
@@ -20,7 +20,7 @@
     "approval_status": "Approved"
   },
   {
-    "id": 1415,
+    "id": 1425,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Mnem",
     "t24_field_name": "TEXT",
@@ -30,7 +30,7 @@
     "approval_status": "Approved"
   },
   {
-    "id": 1416,
+    "id": 1426,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Short.Name",
     "t24_field_name": "TEXT",
@@ -40,7 +40,7 @@
     "approval_status": "Approved"
   },
   {
-    "id": 1417,
+    "id": 1427,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Natlty",
     "t24_field_name": "TEXT",
@@ -50,7 +50,7 @@
     "approval_status": "Approved"
   },
   {
-    "id": 1418,
+    "id": 1428,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Res",
     "t24_field_name": "TEXT",
@@ -60,7 +60,7 @@
     "approval_status": "Approved"
   },
   {
-    "id": 1419,
+    "id": 1429,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Ac.Ofcr",
     "t24_field_name": "TEXT",
@@ -70,7 +70,7 @@
     "approval_status": "Approved"
   },
   {
-    "id": 1420,
+    "id": 1430,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Ind",
     "t24_field_name": "TEXT",
@@ -80,7 +80,7 @@
     "approval_status": "Approved"
   },
   {
-    "id": 1421,
+    "id": 1431,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Sect",
     "t24_field_name": "TEXT",
@@ -90,12 +90,852 @@
     "approval_status": "Approved"
   },
   {
-    "id": 1422,
+    "id": 1432,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "Record_View",
     "t24_field_name": "TEXT",
     "original_value": "Record View",
     "translated_value": "Affichage de l'enregistrement",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1433,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "CUSTOMER.INFO",
+    "t24_field_name": "SHORT.DESC",
+    "original_value": "CUSTOMER.INFO",
+    "translated_value": "CLIENT.INFO",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1434,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-HDR.LINE1.1",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "Entries Today",
+    "translated_value": "Entrées d'aujourd'hui",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1435,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-HDR.LINE2.1",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "Account :",
+    "translated_value": "Compte :",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1436,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-HDR.LINE2.2",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "Customer :",
+    "translated_value": "Client :",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1437,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-HDR.LINE.3",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "Currency :",
+    "translated_value": "Monnaie :",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1438,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-NOREC",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "*** NO ENTRIES",
+    "translated_value": "*** Pas d'entrées",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1439,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-NOREC1",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "FOR PERIOD ***",
+    "translated_value": "POUR LA PÉRIODE ***",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1440,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-DELIM",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": ":",
+    "translated_value": ":",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1441,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-BFWD",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "Balance at Period Start",
+    "translated_value": "Solde au début de la période",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1442,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-POST",
+    "t24_field_name": "TEXT",
+    "original_value": "Booking Date",
+    "translated_value": "Date de comptabilisation",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1443,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-PDESC",
+    "t24_field_name": "TEXT",
+    "original_value": "Description",
+    "translated_value": "Description",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1444,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-REFNO",
+    "t24_field_name": "TEXT",
+    "original_value": "Reference",
+    "translated_value": "Référence",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1445,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-VALDESC",
+    "t24_field_name": "TEXT",
+    "original_value": "Value Date",
+    "translated_value": "Date de valeur",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1446,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-DR.AMOUNT",
+    "t24_field_name": "TEXT",
+    "original_value": "Debit",
+    "translated_value": "Débit",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1447,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-CR.AMOUNT",
+    "t24_field_name": "TEXT",
+    "original_value": "Credit",
+    "translated_value": "Crédit",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1448,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-AMT",
+    "t24_field_name": "TEXT",
+    "original_value": "Amount",
+    "translated_value": "Montant",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1449,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-DR.AMT.02",
+    "t24_field_name": "TEXT",
+    "original_value": "Debit",
+    "translated_value": "Débit",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1450,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-CR.AMOUNT.02",
+    "t24_field_name": "TEXT",
+    "original_value": "Credit",
+    "translated_value": "Crédit",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1451,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-RUNNING.BALANCE",
+    "t24_field_name": "TEXT",
+    "original_value": "Closing Balance",
+    "translated_value": "Solde de clôture",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1452,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-HYPHN",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "---------",
+    "translated_value": "--------",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1453,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-AA",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "AA",
+    "translated_value": "AA",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1454,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-BALANCE",
+    "t24_field_name": "TEXT",
+    "original_value": "Closing Balance",
+    "translated_value": "Solde de clôture",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1455,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-PS",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "PS",
+    "translated_value": "PS",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1456,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-FUN.SEE",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "S",
+    "translated_value": "S",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1457,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-NET.ENTRY",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "NET...",
+    "translated_value": "NET...",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1458,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-STMT.ENT.DET",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "ENQ STMT.ENT.DETAIL",
+    "translated_value": "EnQ STMT.ENT.DÉTAIL",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1459,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-NET.SEL.ID",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "STMT.ENTRY.ID EQ",
+    "translated_value": "STMT.ENTRY.ID EQ",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1460,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-AA.ID.FORM",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "AA.ARRANGEMENT.ACTIVITY",
+    "translated_value": "AA.ARANGEMENT.ACTIVITÉ",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1461,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-PP.REFNUM",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "111",
+    "translated_value": "111",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1462,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-PO",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "PO",
+    "translated_value": "PO",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1463,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-SW",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "SW",
+    "translated_value": "SW",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1464,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-ACCP",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "ACCP",
+    "translated_value": "ACCP",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1465,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-ACSW",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "ACSW",
+    "translated_value": "ACSW",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1466,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-PP",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "PP",
+    "translated_value": "PP",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1467,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-TT",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "TT",
+    "translated_value": "TT",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1468,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-NO",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "N",
+    "translated_value": "N",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1469,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-STMT.ENTRY",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "STMT.ENTRY",
+    "translated_value": "STMT.ENTRY",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1470,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-D.BAL",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "Balance at Period End",
+    "translated_value": "Solde à la fin de la période",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1471,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-TOTAL",
+    "t24_field_name": "TEXT",
+    "original_value": "Closing Balance",
+    "translated_value": "Solde de clôture",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1472,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-ZERORECORDS",
+    "t24_field_name": "TXT.OPERATION",
+    "original_value": "Either incorrect account number or no entries",
+    "translated_value": "Numéro de compte incorrect ou aucune entrée",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1473,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY-ACCT.ID",
+    "t24_field_name": "ENQ.SEL.TEXT",
+    "original_value": "Account No",
+    "translated_value": "Numéro de compte",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1474,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "Transaction_Detail",
+    "t24_field_name": "TEXT",
+    "original_value": "Transaction Detail",
+    "translated_value": "Détail de la transaction",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1475,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY",
+    "t24_field_name": "DESCRIPTION",
+    "original_value": "Statement Entries Today",
+    "translated_value": "Entrées de relevé aujourd'hui",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1476,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "STMT.ENT.TODAY",
+    "t24_field_name": "SHORT.DESC",
+    "original_value": "Statement Entries Today",
+    "translated_value": "Entrées de relevé aujourd'hui",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1477,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN",
+    "t24_field_name": "DESCRIPTION",
+    "original_value": "Current Account",
+    "translated_value": "Compte courant",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1478,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-CUSTOMER",
+    "t24_field_name": "TEXT",
+    "original_value": "Customer ID",
+    "translated_value": "ID du client",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1479,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-CUSTOMER",
+    "t24_field_name": "TOOL.TIP",
+    "original_value": "Identifies the Customer to whom the A/c belongs.",
+    "translated_value": "Identifie le Client à qui appartient l'A/C.",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1480,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-CATEGORY",
+    "t24_field_name": "TEXT",
+    "original_value": "Product Code",
+    "translated_value": "Code de produit",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1481,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-CATEGORY",
+    "t24_field_name": "TOOL.TIP",
+    "original_value": "Indicates the Category code for the Account.",
+    "translated_value": "Indique le code de catégorie du compte.",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1482,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-CURRENCY",
+    "t24_field_name": "TEXT",
+    "original_value": "Currency",
+    "translated_value": "Monnaie",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1483,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-CURRENCY",
+    "t24_field_name": "TOOL.TIP",
+    "original_value": "Identifies the Currency of the Account.",
+    "translated_value": "Identifie la Monnaie du Compte.",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1484,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-MNEMONIC",
+    "t24_field_name": "TEXT",
+    "original_value": "Mnemonic",
+    "translated_value": "Mnémonique",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1485,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-MNEMONIC",
+    "t24_field_name": "TOOL.TIP",
+    "original_value": "An alternative method of referencing the A/c",
+    "translated_value": "Une autre méthode de référencement de l'A/C",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1486,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-ACCOUNT.TITLE.1",
+    "t24_field_name": "TEXT",
+    "original_value": "Account Name 1",
+    "translated_value": "Nom de compte 1",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1487,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-ACCOUNT.TITLE.1",
+    "t24_field_name": "TOOL.TIP",
+    "original_value": "Identifies 1st part, or the whole, of A/c title.",
+    "translated_value": "Identifie la 1re partie",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1488,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-ACCOUNT.TITLE.2",
+    "t24_field_name": "TEXT",
+    "original_value": "Account Name 2",
+    "translated_value": " ou l'ensemble",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1489,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-ACCOUNT.TITLE.2",
+    "t24_field_name": "TOOL.TIP",
+    "original_value": "Identifies part, or the whole, of A/c title.",
+    "translated_value": "",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1490,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-SHORT.TITLE",
+    "t24_field_name": "TEXT",
+    "original_value": "Short Name",
+    "translated_value": "Nom de compte 2",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1491,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-SHORT.TITLE",
+    "t24_field_name": "TOOL.TIP",
+    "original_value": "Specifies the abbreviated title of the A/c",
+    "translated_value": "Identifie une partie",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1492,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-ACCOUNT.OFFICER",
+    "t24_field_name": "TEXT",
+    "original_value": "Account Officer",
+    "translated_value": " ou l'ensemble",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1493,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-ACCOUNT.OFFICER",
+    "t24_field_name": "TOOL.TIP",
+    "original_value": "The main Account Officer responsible for the A/c",
+    "translated_value": "",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1494,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-OTHER.OFFICER",
+    "t24_field_name": "TEXT",
+    "original_value": "Other Officer",
+    "translated_value": "Nom abrégé",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1495,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-OTHER.OFFICER",
+    "t24_field_name": "TOOL.TIP",
+    "original_value": "Other Account officer responsible for the Account",
+    "translated_value": "Spécifie le titre abrégé de l'A/c",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1496,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-MAX.SUB.ACCOUNT",
+    "t24_field_name": "TEXT",
+    "original_value": "Maximum Sub Account",
+    "translated_value": "Administrateur de compte",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1497,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-MAX.SUB.ACCOUNT",
+    "t24_field_name": "TOOL.TIP",
+    "original_value": "Maximum Sub Account for an Account",
+    "translated_value": "L'agent de compte principal responsable de l'A/C",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1498,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-LIMIT.REF",
+    "t24_field_name": "TEXT",
+    "original_value": "Limit Ref",
+    "translated_value": "Autre fonctionnaire",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1499,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-JOINT.HOLDER",
+    "t24_field_name": "TEXT",
+    "original_value": "Joint Holder ID",
+    "translated_value": "Agent de compte responsable du compte",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1500,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-JOINT.HOLDER",
+    "t24_field_name": "TOOL.TIP",
+    "original_value": "Joint holder customer of this Account",
+    "translated_value": "Compte de sous-compte maximal",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1501,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-RELATION.CODE",
+    "t24_field_name": "TEXT",
+    "original_value": "Joint Relation Code",
+    "translated_value": "Compte de sous-compte maximal pour un compte",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1502,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-RELATION.CODE",
+    "t24_field_name": "TOOL.TIP",
+    "original_value": "Relationship that the joint holder with the A/c",
+    "translated_value": "Ref limite",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1503,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-JOINT.NOTES",
+    "t24_field_name": "TEXT",
+    "original_value": "Relation Notes",
+    "translated_value": "ID du titulaire de joint",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1504,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-JOINT.NOTES",
+    "t24_field_name": "TOOL.TIP",
+    "original_value": "Documentary info pertaining to the joint holder",
+    "translated_value": "Client cotitulaire de ce compte",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1505,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-INT.LIQU.TYPE",
+    "t24_field_name": "TEXT",
+    "original_value": "Int Liquidation Type",
+    "translated_value": "Code de relation conjointe",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1506,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-INT.LIQU.ACCT",
+    "t24_field_name": "TEXT",
+    "original_value": "Int Liquidation Acct",
+    "translated_value": "Relation entre le titulaire de la jointure et le C/A",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1507,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-INT.LIQ.CCY",
+    "t24_field_name": "TEXT",
+    "original_value": "Int Liquidation Ccy",
+    "translated_value": "Notes de relation",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1508,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-SINGLE.LIMIT",
+    "t24_field_name": "TEXT",
+    "original_value": "Single Limit - Y/N?",
+    "translated_value": "Informations documentaires concernant le titulaire de la jointure",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1509,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-LINK.TO.LIMIT",
+    "t24_field_name": "TEXT",
+    "original_value": "Link to Limit - Y/N?",
+    "translated_value": "Type de liquidation d'entrée",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1510,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-ALT.ACCT.TYPE",
+    "t24_field_name": "TEXT",
+    "original_value": "Alt Acct Type",
+    "translated_value": "Acct de liquidation d'entrée",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1511,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-ALT.ACCT.TYPE",
+    "t24_field_name": "TOOL.TIP",
+    "original_value": "Alternate account system, for reference",
+    "translated_value": "Ccy de liquidation d'int",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1512,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-ALT.ACCT.ID",
+    "t24_field_name": "TEXT",
+    "original_value": "Alt Acct No.",
+    "translated_value": "Limite unique - Y/N?",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1513,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-ALT.ACCT.ID",
+    "t24_field_name": "TOOL.TIP",
+    "original_value": "Alternate account identifier",
+    "translated_value": "Lien vers la limite - Y/N?",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1514,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-HVT.FLAG",
+    "t24_field_name": "TEXT",
+    "original_value": "HVT Flag",
+    "translated_value": "Type d'acct Alt",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1515,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-DEFERRED.BALANCE.UPDATE",
+    "t24_field_name": "TEXT",
+    "original_value": "Deffered Bal Update",
+    "translated_value": "Système de compte de remplacement",
+    "entry_date": null,
+    "approval_status": "Approved"
+  },
+  {
+    "id": 1516,
+    "t24_application_name": "EB.DICTIONARY",
+    "t24_record_id": "ACCOUNT,CA.OPEN-DEFERRED.BALANCE.UPDATE",
+    "t24_field_name": "TOOL.TIP",
+    "original_value": "Indicates whether or not to deffer balance updation",
+    "translated_value": "",
     "entry_date": null,
     "approval_status": "Approved"
   }
