@@ -1,542 +1,102 @@
 [
   {
-    "id": 1349,
+    "id": 1403,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-HDR.1",
     "t24_field_name": "TXT.OPERATION",
     "original_value": "Customer Information",
     "translated_value": "Informations à la clientèle",
-    "entry_date": null,
+    "entry_date": "2025-03-26T09:31:02.000Z",
     "approval_status": "Approved"
   },
   {
-    "id": 1350,
+    "id": 1404,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Cus.No",
     "t24_field_name": "TEXT",
     "original_value": "Customer.No",
     "translated_value": "Numéro de client",
-    "entry_date": null,
+    "entry_date": "2025-03-26T09:31:02.000Z",
     "approval_status": "Approved"
   },
   {
-    "id": 1351,
+    "id": 1405,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Mnem",
     "t24_field_name": "TEXT",
     "original_value": "Mnemonic",
     "translated_value": "Mnémonique",
-    "entry_date": null,
+    "entry_date": "2025-03-26T09:31:02.000Z",
     "approval_status": "Approved"
   },
   {
-    "id": 1352,
+    "id": 1406,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Short.Name",
     "t24_field_name": "TEXT",
     "original_value": "Short Name",
     "translated_value": "Nom abrégé",
-    "entry_date": null,
+    "entry_date": "2025-03-26T09:31:02.000Z",
     "approval_status": "Approved"
   },
   {
-    "id": 1353,
+    "id": 1407,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Natlty",
     "t24_field_name": "TEXT",
     "original_value": "Nationality",
     "translated_value": "Nationalité",
-    "entry_date": null,
+    "entry_date": "2025-03-26T09:31:02.000Z",
     "approval_status": "Approved"
   },
   {
-    "id": 1354,
+    "id": 1408,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Res",
     "t24_field_name": "TEXT",
     "original_value": "Residence",
     "translated_value": "Résidence",
-    "entry_date": null,
+    "entry_date": "2025-03-26T09:31:02.000Z",
     "approval_status": "Approved"
   },
   {
-    "id": 1355,
+    "id": 1409,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Ac.Ofcr",
     "t24_field_name": "TEXT",
     "original_value": "Account Officer",
     "translated_value": "Administrateur de compte",
-    "entry_date": null,
+    "entry_date": "2025-03-26T09:31:02.000Z",
     "approval_status": "Approved"
   },
   {
-    "id": 1356,
+    "id": 1410,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Ind",
     "t24_field_name": "TEXT",
     "original_value": "Industry",
     "translated_value": "Industrie",
-    "entry_date": null,
+    "entry_date": "2025-03-26T09:31:02.000Z",
     "approval_status": "Approved"
   },
   {
-    "id": 1357,
+    "id": 1411,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Sect",
     "t24_field_name": "TEXT",
     "original_value": "Sector",
     "translated_value": "Secteur",
-    "entry_date": null,
+    "entry_date": "2025-03-26T09:31:02.000Z",
     "approval_status": "Approved"
   },
   {
-    "id": 1358,
+    "id": 1412,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "Record_View",
     "t24_field_name": "TEXT",
     "original_value": "Record View",
     "translated_value": "Affichage de l'enregistrement",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1359,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "CUSTOMER.INFO",
-    "t24_field_name": "SHORT.DESC",
-    "original_value": "CUSTOMER.INFO",
-    "translated_value": "CLIENT.INFO",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1360,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-HDR.LINE1.1",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "Entries Today",
-    "translated_value": "Entrées d'aujourd'hui",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1361,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-HDR.LINE2.1",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "Account :",
-    "translated_value": "Compte :",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1362,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-HDR.LINE2.2",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "Customer :",
-    "translated_value": "Client :",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1363,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-HDR.LINE.3",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "Currency :",
-    "translated_value": "Monnaie :",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1364,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-NOREC",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "*** NO ENTRIES",
-    "translated_value": "*** Pas d'entrées",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1365,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-NOREC1",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "FOR PERIOD ***",
-    "translated_value": "POUR LA PÉRIODE ***",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1366,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-DELIM",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": ":",
-    "translated_value": ":",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1367,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-BFWD",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "Balance at Period Start",
-    "translated_value": "Solde au début de la période",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1368,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-POST",
-    "t24_field_name": "TEXT",
-    "original_value": "Booking Date",
-    "translated_value": "Date de comptabilisation",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1369,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-PDESC",
-    "t24_field_name": "TEXT",
-    "original_value": "Description",
-    "translated_value": "Description",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1370,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-REFNO",
-    "t24_field_name": "TEXT",
-    "original_value": "Reference",
-    "translated_value": "Référence",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1371,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-VALDESC",
-    "t24_field_name": "TEXT",
-    "original_value": "Value Date",
-    "translated_value": "Date de valeur",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1372,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-DR.AMOUNT",
-    "t24_field_name": "TEXT",
-    "original_value": "Debit",
-    "translated_value": "Débit",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1373,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-CR.AMOUNT",
-    "t24_field_name": "TEXT",
-    "original_value": "Credit",
-    "translated_value": "Crédit",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1374,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-AMT",
-    "t24_field_name": "TEXT",
-    "original_value": "Amount",
-    "translated_value": "Montant",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1375,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-DR.AMT.02",
-    "t24_field_name": "TEXT",
-    "original_value": "Debit",
-    "translated_value": "Débit",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1376,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-CR.AMOUNT.02",
-    "t24_field_name": "TEXT",
-    "original_value": "Credit",
-    "translated_value": "Crédit",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1377,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-RUNNING.BALANCE",
-    "t24_field_name": "TEXT",
-    "original_value": "Closing Balance",
-    "translated_value": "Solde de clôture",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1378,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-HYPHN",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "---------",
-    "translated_value": "--------",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1379,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-AA",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "AA",
-    "translated_value": "AA",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1380,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-BALANCE",
-    "t24_field_name": "TEXT",
-    "original_value": "Closing Balance",
-    "translated_value": "Solde de clôture",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1381,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-PS",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "PS",
-    "translated_value": "PS",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1382,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-FUN.SEE",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "S",
-    "translated_value": "S",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1383,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-NET.ENTRY",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "NET...",
-    "translated_value": "NET...",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1384,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-STMT.ENT.DET",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "ENQ STMT.ENT.DETAIL",
-    "translated_value": "EnQ STMT.ENT.DÉTAIL",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1385,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-NET.SEL.ID",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "STMT.ENTRY.ID EQ",
-    "translated_value": "STMT.ENTRY.ID EQ",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1386,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-AA.ID.FORM",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "AA.ARRANGEMENT.ACTIVITY",
-    "translated_value": "AA.ARANGEMENT.ACTIVITÉ",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1387,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-PP.REFNUM",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "111",
-    "translated_value": "111",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1388,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-PO",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "PO",
-    "translated_value": "PO",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1389,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-SW",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "SW",
-    "translated_value": "SW",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1390,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-ACCP",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "ACCP",
-    "translated_value": "ACCP",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1391,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-ACSW",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "ACSW",
-    "translated_value": "ACSW",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1392,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-PP",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "PP",
-    "translated_value": "PP",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1393,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-TT",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "TT",
-    "translated_value": "TT",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1394,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-NO",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "N",
-    "translated_value": "N",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1395,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-STMT.ENTRY",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "STMT.ENTRY",
-    "translated_value": "STMT.ENTRY",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1396,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-D.BAL",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "Balance at Period End",
-    "translated_value": "Solde à la fin de la période",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1397,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-TOTAL",
-    "t24_field_name": "TEXT",
-    "original_value": "Closing Balance",
-    "translated_value": "Solde de clôture",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1398,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-ZERORECORDS",
-    "t24_field_name": "TXT.OPERATION",
-    "original_value": "Either incorrect account number or no entries",
-    "translated_value": "Numéro de compte incorrect ou aucune entrée",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1399,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY-ACCT.ID",
-    "t24_field_name": "ENQ.SEL.TEXT",
-    "original_value": "Account No",
-    "translated_value": "Numéro de compte",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1400,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "Transaction_Detail",
-    "t24_field_name": "TEXT",
-    "original_value": "Transaction Detail",
-    "translated_value": "Détail de la transaction",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1401,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY",
-    "t24_field_name": "DESCRIPTION",
-    "original_value": "Statement Entries Today",
-    "translated_value": "Entrées de relevé aujourd'hui",
-    "entry_date": null,
-    "approval_status": "Approved"
-  },
-  {
-    "id": 1402,
-    "t24_application_name": "EB.DICTIONARY",
-    "t24_record_id": "STMT.ENT.TODAY",
-    "t24_field_name": "SHORT.DESC",
-    "original_value": "Statement Entries Today",
-    "translated_value": "Entrées de relevé aujourd'hui",
-    "entry_date": null,
+    "entry_date": "2025-03-26T09:31:02.000Z",
     "approval_status": "Approved"
   }
 ]
