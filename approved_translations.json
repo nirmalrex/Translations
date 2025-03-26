@@ -1,102 +1,102 @@
 [
   {
-    "id": 1403,
+    "id": 1413,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-HDR.1",
     "t24_field_name": "TXT.OPERATION",
     "original_value": "Customer Information",
     "translated_value": "Informations à la clientèle",
-    "entry_date": "2025-03-26T09:31:02.000Z",
+    "entry_date": null,
     "approval_status": "Approved"
   },
   {
-    "id": 1404,
+    "id": 1414,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Cus.No",
     "t24_field_name": "TEXT",
     "original_value": "Customer.No",
     "translated_value": "Numéro de client",
-    "entry_date": "2025-03-26T09:31:02.000Z",
+    "entry_date": null,
     "approval_status": "Approved"
   },
   {
-    "id": 1405,
+    "id": 1415,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Mnem",
     "t24_field_name": "TEXT",
     "original_value": "Mnemonic",
     "translated_value": "Mnémonique",
-    "entry_date": "2025-03-26T09:31:02.000Z",
+    "entry_date": null,
     "approval_status": "Approved"
   },
   {
-    "id": 1406,
+    "id": 1416,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Short.Name",
     "t24_field_name": "TEXT",
     "original_value": "Short Name",
     "translated_value": "Nom abrégé",
-    "entry_date": "2025-03-26T09:31:02.000Z",
+    "entry_date": null,
     "approval_status": "Approved"
   },
   {
-    "id": 1407,
+    "id": 1417,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Natlty",
     "t24_field_name": "TEXT",
     "original_value": "Nationality",
     "translated_value": "Nationalité",
-    "entry_date": "2025-03-26T09:31:02.000Z",
+    "entry_date": null,
     "approval_status": "Approved"
   },
   {
-    "id": 1408,
+    "id": 1418,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Res",
     "t24_field_name": "TEXT",
     "original_value": "Residence",
     "translated_value": "Résidence",
-    "entry_date": "2025-03-26T09:31:02.000Z",
+    "entry_date": null,
     "approval_status": "Approved"
   },
   {
-    "id": 1409,
+    "id": 1419,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Ac.Ofcr",
     "t24_field_name": "TEXT",
     "original_value": "Account Officer",
     "translated_value": "Administrateur de compte",
-    "entry_date": "2025-03-26T09:31:02.000Z",
+    "entry_date": null,
     "approval_status": "Approved"
   },
   {
-    "id": 1410,
+    "id": 1420,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Ind",
     "t24_field_name": "TEXT",
     "original_value": "Industry",
     "translated_value": "Industrie",
-    "entry_date": "2025-03-26T09:31:02.000Z",
+    "entry_date": null,
     "approval_status": "Approved"
   },
   {
-    "id": 1411,
+    "id": 1421,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "CUSTOMER.INFO-Sect",
     "t24_field_name": "TEXT",
     "original_value": "Sector",
     "translated_value": "Secteur",
-    "entry_date": "2025-03-26T09:31:02.000Z",
+    "entry_date": null,
     "approval_status": "Approved"
   },
   {
-    "id": 1412,
+    "id": 1422,
     "t24_application_name": "EB.DICTIONARY",
     "t24_record_id": "Record_View",
     "t24_field_name": "TEXT",
     "original_value": "Record View",
     "translated_value": "Affichage de l'enregistrement",
-    "entry_date": "2025-03-26T09:31:02.000Z",
+    "entry_date": null,
     "approval_status": "Approved"
   }
 ]
